@@ -1,0 +1,19 @@
+segment_sources:
+  I9088DA5C:
+    type: origin_type
+    relation: translation
+    language: en
+  I939744EB:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dc005d41c148488bbfc769d46f7f9efd:
+    I9088DA5C: 47d6edcdac8241709cfe845ba6c2967f
+    I939744EB: a371ebad3d7942feb97d5e7f3233dc3c
+  3ebb6b135da44d46a0d4fd6596d676fd:
+    I9088DA5C: b34d48d68a5a4b0e8f9535af3858f754
+    I939744EB: c3c682e0880c4618827ec54bb3e5a0e4
+  d796bf1eb033418dbf97d5e06299c394:
+    I9088DA5C: e55dcebfa5cb4094aaf0294501ebf84d
+    I939744EB: 6d8c2c1ecf354c869d8c7fa0e01d3d25
